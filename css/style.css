@@ -1,0 +1,28 @@
+.page {
+    margin: 50px;
+    border-top: 5px solid black;
+}
+
+img {
+    max-width: 50%;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.code-text {
+    color: green;
+}
+
+.quote-text {
+    padding-left: 15px;
+}
+
+img {
+    display: block;
+}
